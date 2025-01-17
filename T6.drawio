@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
+  <diagram name="Page-1" id="f0eGwpnqznt9M9tO1j1Z">
+    <mxGraphModel dx="1562" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TPwhtm7s0nvKpVkchpot-4" value="Servicio" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwhtm7s0nvKpVkchpot-7" value="Entity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TPwhtm7s0nvKpVkchpot-4">
+          <mxGeometry x="145" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwhtm7s0nvKpVkchpot-12" value="API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TPwhtm7s0nvKpVkchpot-4">
+          <mxGeometry x="4" y="29" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwhtm7s0nvKpVkchpot-14" value="DB-Con" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TPwhtm7s0nvKpVkchpot-4">
+          <mxGeometry y="59" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwhtm7s0nvKpVkchpot-15" value="Endpoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TPwhtm7s0nvKpVkchpot-4">
+          <mxGeometry x="130" y="59" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
